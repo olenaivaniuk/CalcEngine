@@ -10,8 +10,6 @@ public class Main {
         testEquesion.execute();
         System.out.println("test = " + testEquesion.getResult()); */
 
-
-
         MathEquation[] equations = new MathEquation[4];
         equations[0] = new MathEquation('d', 100.0d, 50.0d );
         equations[1] = new MathEquation('a', 25.0d, 92.0d);
